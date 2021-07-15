@@ -13,5 +13,10 @@
 - [2021년 7월 6일] 0.13 - 밸런스 조정 및 버그픽스
 - [2021년 7월 6일] 0.14 - 밸런스 조정
 - [미정] 0.15 - 준비중
+
+# 다운로드
+- 권한 요청 필요
+- 0.14 Version (Windows)
+- https://drive.google.com/file/d/1mO4tsv45Kn1Fo2jnlvplHvjcDUROW4iw/view?usp=sharing 
   
  
