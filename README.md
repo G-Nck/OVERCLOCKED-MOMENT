@@ -1,14 +1,9 @@
 # OVERCLOCKED MOMENT
 
-
-
-
-# 팀 명단
- - 팀 소속 : 광주소프트웨어마이스터고등학교
- - 게임 제작 총괄 : 주진우 
- - 일부 기획 : 박지예
+사용엔진: Unity   
+장르: 3D 3인칭 액션 SF
  
-# 업데이트
+# Versions
 * 프로로타입 버전 (2021.5.28 ~ 2021.7.6) (Dev Time - 200Hrs)
     * [2021.7.6] 0.1 - 첫 빌드
     * [2021.7.6] 0.11 - 일부 버그 수정
@@ -19,7 +14,7 @@
        <details>
         <summary>정보 보기</summary>
  
-         2021 GIGDC 중고등부 제작부문 출품 버전. 
+         2021 GIGDC 중고등부 제작부문 출품 버전.    
          [팀장] - [주진우(본인)](https://github.com/wlsdnvy)     
          [팀원] - [박지예](https://github.com/jiye-stingray)
           
