@@ -2,6 +2,8 @@
 
 사용엔진: Unity   
 장르: 3D 3인칭 액션 SF
+
+Total Dev Time - 500Hrs
  
 # Versions
 * 프로로타입 버전 (2021.5.28 ~ 2021.7.6) (Dev Time - 200Hrs)
@@ -23,7 +25,15 @@
 
 
 
-* 베타 버전
-  * [2021.9.17] 0.1b - 베타 업데이트
+* 베타 버전 (2021.8.15 ~ ing) (Dev Time - 300Hrs)
+  * [2021.9.17] 0.1b - 베타 업데이트 
+  
+     <details>
+      <summary>정보 보기</summary>
+      
+      2021 GSM 올림피아드 출품 버전.
+      
+ 
+      </details>
 
  
