@@ -3,7 +3,7 @@
 사용엔진: Unity   
 장르: 3D 3인칭 액션 SF
 
-Total Dev Time - 500Hrs
+Dev Time - Over 500Hrs
  
 # Versions
 * 프로로타입 버전 (2021.5.28 ~ 2021.7.6) (Dev Time - 200Hrs)
