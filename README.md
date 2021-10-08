@@ -19,6 +19,8 @@ Dev Time - Over 500Hrs
          2021 GIGDC 중고등부 제작부문 출품 버전.    
          [팀장] - [주진우(본인)](https://github.com/wlsdnvy)     
          [팀원] - [박지예](https://github.com/jiye-stingray)
+         
+         [유튜브 시연 영상](https://www.youtube.com/watch?v=eleznff99ck)
           
  
          </details>
