@@ -12,15 +12,15 @@ Dev Time - Over 500Hrs
     * [2021.7.6] 0.12 - 일부 버그 수정
     * [2021.7.6] 0.13 - 밸런스 조정 및 버그픽스
     * [2021.7.6] 0.14 - 밸런스 조정
-        
+        [유튜브 시연 영상](https://www.youtube.com/watch?v=eleznff99ck)
        <details>
-        <summary>정보 보기</summary>
+        <summary>상세정보 보기</summary>
  
          2021 GIGDC 중고등부 제작부문 출품 버전.    
          [팀장] - [주진우(본인)](https://github.com/wlsdnvy)     
          [팀원] - [박지예](https://github.com/jiye-stingray)
          
-         [유튜브 시연 영상](https://www.youtube.com/watch?v=eleznff99ck)
+       
           
  
          </details>
