@@ -5,7 +5,8 @@
 
 Dev Time - Over 500Hrs
  
-# Versions
+# Versions 
+![](https://img.shields.io/github/v/release/wlsdnvy/OVERCLOCKED-MOMENT?style=plastic)
 * 프로로타입 버전 (2021.5.28 ~ 2021.7.6) (Dev Time - 200Hrs)
     * [2021.7.6] 0.1 - 첫 빌드
     * [2021.7.6] 0.11 - 일부 버그 수정
