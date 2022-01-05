@@ -5,16 +5,38 @@
 
 Dev Time - Over 500Hrs
  
-
+![image](https://user-images.githubusercontent.com/67905493/148179526-15eba767-c8cc-4a3a-87ad-d4b1f464d8b4.png)
  
 # Preview
+<details>
+ <summary>게임 스크린샷</summary>
+ 
  ![게임개발기능반 2021 09 17 - 10 15 36 08 DVR_Moment](https://user-images.githubusercontent.com/67905493/148178932-377a2a45-2fbe-421f-b377-9d305f3b1632.jpg)
 ![게임개발기능반 수비 모드 22021 09 17 - 10 25 47 11 DVR_Moment](https://user-images.githubusercontent.com/67905493/148178950-64d9898d-ce56-4b2a-83e3-4e4ca2a375e5.jpg)
 ![게임개발기능반 수비 모드1 - 10 14 48 07 DVR_Moment](https://user-images.githubusercontent.com/67905493/148178958-7ba0f454-55ea-4904-9140-d5c5fcf7fa45.jpg)
 ![공격 모드 2 2021 09 17 - 10 15 36 08 DVR_Moment](https://user-images.githubusercontent.com/67905493/148178964-f91bd313-7d5f-48f2-b4b3-1f13ee119669.jpg)
 ![수비 모드 3 2021 09 17 - 10 24 34 10 DVR_Moment](https://user-images.githubusercontent.com/67905493/148178965-8b19d7a6-48f9-49c0-b2fd-7df3cf8e9c43.jpg)
+</details>
+
+
+
+# Feature
+<details>
+ 
+## 추가 사용된 유니티 빌트인 패키지
+CineMachine    
+Animation Rigging    
+
+## 사용된 유니티 툴 에셋
+[Feel](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370)
+
+</details>
+
+
 # Versions 
 ![](https://img.shields.io/github/v/release/wlsdnvy/OVERCLOCKED-MOMENT?style=plastic)
+
+
 <details>
  <summary>버전 목록 보기</summary>
 
